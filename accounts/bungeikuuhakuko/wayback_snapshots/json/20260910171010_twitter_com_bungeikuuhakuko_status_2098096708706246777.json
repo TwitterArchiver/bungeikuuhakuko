@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2098096708706246777",
+    "created_at": "2026-09-10T17:10:10.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T18:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098096708706246777"
+    ],
+    "entities": {},
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2098096708706246777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今年忘給初中老師送個教師節祝福了\n唉，分離過久最後還是變成陌生人"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2098096708706246777",
+        "created_at": "2026-09-10T17:10:10.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098096708706246777"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2098096708706246777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年忘給初中老師送個教師節祝福了\n唉，分離過久最後還是變成陌生人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2098096708706246777",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095175643361374208/7B8cd2pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147,
+          "following_count": 326,
+          "like_count": 12152,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 3771
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2096941426240373048",
+    "created_at": "2026-09-07T15:21:49.000Z",
+    "display_text_range": [
+      23,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096982275233841458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1052903358900580352",
+          "start": 0,
+          "username": "Kalin_1124"
+        },
+        {
+          "end": 22,
+          "id": "4313176880",
+          "start": 12,
+          "username": "fake_fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096982275233841458",
+    "in_reply_to_user_id": "1052903358900580352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096941426240373048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kalin_1124 @fake_fuji 還有帽子（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096941419764367362",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnVHHfbwAI57w4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2096941426240373048",
+        "created_at": "2026-09-07T15:21:49.000Z",
+        "display_text_range": [
+          23,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096982275233841458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1052903358900580352",
+              "start": 0,
+              "username": "Kalin_1124"
+            },
+            {
+              "end": 22,
+              "id": "4313176880",
+              "start": 12,
+              "username": "fake_fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096982275233841458",
+        "in_reply_to_user_id": "1052903358900580352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096941426240373048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalin_1124 @fake_fuji 還有帽子（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096941419764367362"
+          ]
+        },
+        "author_id": "1052903358900580352",
+        "conversation_id": "2096941426240373048",
+        "created_at": "2026-09-07T12:39:29.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096941426240373048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4313176880",
+              "start": 9,
+              "username": "fake_fuji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xx6yPuPav3",
+              "end": 49,
+              "expanded_url": "https://x.com/Kalin_1124/status/2096941426240373048/photo/1",
+              "media_key": "3_2096941419764367362",
+              "start": 26,
+              "url": "https://t.co/xx6yPuPav3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096941426240373048",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096941419764367362"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "研發成功喵（\n感謝@fake_fuji 技術支援喵 https://t.co/xx6yPuPav3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2096982275233841458",
+        "name": "文芸✨空白子⛩️",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095175643361374208/7B8cd2pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 330,
+          "like_count": 12142,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 3764
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-18T12:44:57.000Z",
+        "description": "07｜男｜喵",
+        "id": "1052903358900580352",
+        "is_identity_verified": false,
+        "location": "owo",
+        "most_recent_tweet_id": "2096975496999563670",
+        "name": "卡林喵～",
+        "pinned_tweet_id": "2090409100165390806",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1052903358900580352/1769227139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014910609528442880/ftm3U_oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 2558,
+          "like_count": 64031,
+          "listed_count": 2,
+          "media_count": 781,
+          "tweet_count": 12345
+        },
+        "url": "",
+        "username": "Kalin_1124",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 大学独居｜只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "hoshino_fuji"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "台湾，真理子怀里",
+        "most_recent_tweet_id": "2096977687445483772",
+        "name": "星野ふじ🍔VTber",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 495,
+          "like_count": 1237,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 414
+        },
+        "url": "",
+        "username": "fake_fuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

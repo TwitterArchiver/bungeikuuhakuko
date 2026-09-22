@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2101116407228624937",
+    "created_at": "2026-09-19T08:11:13.000Z",
+    "display_text_range": [
+      14,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T09:11:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101222566132346961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Fuugetsu_808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101222566132346961",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101116407228624937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fuugetsu_808 香港人又有多少看得上連廣東話都聽不懂生活習慣不一致的大陸女人\n純純眼高手低"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 406,
+        "media_key": "3_2101116266568445952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSiqHLybcAApf0y.png",
+        "width": 486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2101116407228624937",
+        "created_at": "2026-09-19T08:11:13.000Z",
+        "display_text_range": [
+          14,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101222566132346961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Fuugetsu_808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101222566132346961",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101116407228624937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuugetsu_808 香港人又有多少看得上連廣東話都聽不懂生活習慣不一致的大陸女人\n純純眼高手低"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101116266568445952"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2101116407228624937",
+        "created_at": "2026-09-19T01:09:22.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T02:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101116407228624937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWRsjaDAAi",
+              "end": 47,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2101116407228624937/photo/1",
+              "media_key": "3_2101116266568445952",
+              "start": 24,
+              "url": "https://t.co/wWRsjaDAAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101116407228624937",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101116266568445952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 657,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想入香港籍的可以现在就背起行囊去深圳罗湖打工了 https://t.co/wWRsjaDAAi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2101222566132346961",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101221548862717953/3n1GGLj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 324,
+          "like_count": 12179,
+          "listed_count": 3,
+          "media_count": 500,
+          "tweet_count": 3798
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101187042554343719",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593799138893873152/1786224982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6188,
+          "following_count": 1907,
+          "like_count": 94211,
+          "listed_count": 13,
+          "media_count": 1976,
+          "tweet_count": 14221
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

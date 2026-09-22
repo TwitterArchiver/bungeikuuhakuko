@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2101024765670768825",
+    "created_at": "2026-09-20T09:34:55.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T10:34:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101606019747205528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1052903358900580352",
+          "start": 0,
+          "username": "Kalin_1124"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2101606019747205528",
+    "in_reply_to_user_id": "1052903358900580352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101024765670768825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kalin_1124 吃肉棒（？"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2101024765670768825",
+        "created_at": "2026-09-20T09:34:55.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T10:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101606019747205528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1052903358900580352",
+              "start": 0,
+              "username": "Kalin_1124"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2101606019747205528",
+        "in_reply_to_user_id": "1052903358900580352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101024765670768825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalin_1124 吃肉棒（？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1052903358900580352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026514830",
+              "name": "Starbucks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026514830",
+              "name": "Starbucks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1235272242193285120",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2101024765670768825",
+        "created_at": "2026-09-18T19:05:13.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T20:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101024765670768825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101024765670768825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "# 卡林吃吃喵 最近幾天主要吃這些喵：\n\n速食／外食類\n麥當勞：薯條 + 漢堡套餐 + 飲料（「我麥了喵」那則）\n茶餐廳／快餐店早餐：炒蛋、火腿、多士 + 可樂\n粟米雞肉飯 + 奶茶\n英式鬆餅漢堡 + 咖啡\nStarbucks 三文治（看起來是醬料夾心）+ 咖啡\n\n自己吃／家常菜\n火腿炒飯 + 陽光菊花茶\n蒜香雞翼、炒菜心／通菜、番茄蛋花湯、白飯\n另一頓類似家常：雞肉、西芹炒肉、白飯、湯\n\n零食／其他\n日本蟹肉棒（かに風味かまぼこ），還特地配文「吃吃肉棒喵」\n\n整體來看，卡林喵吃得蠻日常，麥當勞、茶餐廳快餐、家常中式菜都有，飲料很常配陽光菊花茶或咖啡／汽水。不是天天大餐，比較像學生或年輕上班族的隨手記錄吃飯喵。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 411,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "# 卡林吃吃喵 最近幾天主要吃這些喵：\n\n速食／外食類\n麥當勞：薯條 + 漢堡套餐 + 飲料（「我麥了喵」那則）\n茶餐廳／快餐店早餐：炒蛋、火腿、多士 + 可樂\n粟米雞肉飯 + 奶茶\n英式鬆餅漢堡 + 咖啡\nStarbucks 三文治（看起來是醬料夾心）+ 咖啡\n\n自己吃／家常菜\n火腿炒飯 + 陽光菊花茶"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜Cantonese\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット",
+        "most_recent_tweet_id": "2101606019747205528",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101221548862717953/3n1GGLj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 326,
+          "like_count": 12186,
+          "listed_count": 3,
+          "media_count": 501,
+          "tweet_count": 3803
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-18T12:44:57.000Z",
+        "description": "07｜男｜喵｜吃飯展示 #卡林吃吃喵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 12,
+                "tag": "卡林吃吃喵"
+              }
+            ]
+          }
+        },
+        "id": "1052903358900580352",
+        "is_identity_verified": false,
+        "location": "owo",
+        "most_recent_tweet_id": "2101570544735035754",
+        "name": "卡林喵～",
+        "pinned_tweet_id": "2101024765670768825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1052903358900580352/1769227139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014910609528442880/ftm3U_oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 2607,
+          "like_count": 66827,
+          "listed_count": 2,
+          "media_count": 845,
+          "tweet_count": 13013
+        },
+        "url": "",
+        "username": "Kalin_1124",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

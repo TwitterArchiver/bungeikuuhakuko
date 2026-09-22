@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2095322683227660746",
+    "created_at": "2026-09-03T03:33:19.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T04:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095354424076169697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4313176880",
+          "start": 0,
+          "username": "fake_fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095354424076169697",
+    "in_reply_to_user_id": "4313176880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095322683227660746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fake_fuji 我也沒體驗過"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2095322683227660746",
+        "created_at": "2026-09-03T03:33:19.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T04:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095354424076169697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4313176880",
+              "start": 0,
+              "username": "fake_fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095354424076169697",
+        "in_reply_to_user_id": "4313176880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095322683227660746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fake_fuji 我也沒體驗過"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4313176880",
+        "conversation_id": "2095322683227660746",
+        "created_at": "2026-09-03T01:27:11.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T02:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095322683227660746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095322683227660746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 752,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是什么时候意识到自己是小孩的？\n\n推特上的大家都在怀念江胡时代，怀念网络空间自由的时代\n\n而我从来没有体会过那种时代"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜愛思考的誰（\n｜Cantonese🇭🇰🇲🇴｜​愛人先愛己 我願榮光歸香港\n｜夢啥説啥不鍵政 戀人日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqelO"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット",
+        "most_recent_tweet_id": "2095354424076169697",
+        "name": "文芸✨空白子⛩️",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095175643361374208/7B8cd2pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 330,
+          "like_count": 12170,
+          "listed_count": 3,
+          "media_count": 494,
+          "tweet_count": 3792
+        },
+        "url": "https://t.co/nVBPTdqelO",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 大学独居｜只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "hoshino_fuji"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "台湾，真理子怀里",
+        "most_recent_tweet_id": "2095353321137869198",
+        "name": "星野ふじ🍔VTber",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 475,
+          "like_count": 976,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "fake_fuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

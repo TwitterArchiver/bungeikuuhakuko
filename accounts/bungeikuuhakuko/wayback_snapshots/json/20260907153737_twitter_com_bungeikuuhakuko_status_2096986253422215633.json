@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2096812663523483917",
+    "created_at": "2026-09-07T15:37:37.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096986253422215633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4313176880",
+          "start": 0,
+          "username": "fake_fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096986253422215633",
+    "in_reply_to_user_id": "4313176880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096812663523483917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fake_fuji 臉部表情不一致"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2096812537534873601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlf5LxaAAENax9.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2096812580543311872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlf7r_asAAPiQn.jpg",
+        "width": 4000
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2096812620175306752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlf9_oa8AA6AEX.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2096812663523483917",
+        "created_at": "2026-09-07T15:37:37.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096986253422215633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4313176880",
+              "start": 0,
+              "username": "fake_fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096986253422215633",
+        "in_reply_to_user_id": "4313176880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096812663523483917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fake_fuji 臉部表情不一致"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096812537534873601",
+            "3_2096812580543311872",
+            "3_2096812620175306752"
+          ]
+        },
+        "author_id": "4313176880",
+        "conversation_id": "2096812663523483917",
+        "created_at": "2026-09-07T04:07:50.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096812663523483917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cu45aS7YNm",
+              "end": 36,
+              "expanded_url": "https://x.com/fake_fuji/status/2096812663523483917/photo/1",
+              "media_key": "3_2096812537534873601",
+              "start": 13,
+              "url": "https://t.co/Cu45aS7YNm"
+            },
+            {
+              "display_url": "pic.x.com/Cu45aS7YNm",
+              "end": 36,
+              "expanded_url": "https://x.com/fake_fuji/status/2096812663523483917/photo/1",
+              "media_key": "3_2096812580543311872",
+              "start": 13,
+              "url": "https://t.co/Cu45aS7YNm"
+            },
+            {
+              "display_url": "pic.x.com/Cu45aS7YNm",
+              "end": 36,
+              "expanded_url": "https://x.com/fake_fuji/status/2096812663523483917/photo/1",
+              "media_key": "3_2096812620175306752",
+              "start": 13,
+              "url": "https://t.co/Cu45aS7YNm"
+            },
+            {
+              "display_url": "x.com/fake_fuji/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/fake_fuji/status/2094062610736140639",
+              "start": 37,
+              "url": "https://t.co/ciEP7Rcvaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096812663523483917",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096812537534873601"
+          },
+          {
+            "media_key": "3_2096812580543311872"
+          },
+          {
+            "media_key": "3_2096812620175306752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1134,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094062610736140639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做出来了，不过感觉怪怪的 https://t.co/Cu45aS7YNm https://t.co/ciEP7Rcvaw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2096986253422215633",
+        "name": "文芸✨空白子⛩️",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095175643361374208/7B8cd2pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 330,
+          "like_count": 12145,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 3766
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 大学独居｜只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "hoshino_fuji"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "台湾，真理子怀里",
+        "most_recent_tweet_id": "2096985596250165536",
+        "name": "星野ふじ🍔VTber",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 495,
+          "like_count": 1237,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 415
+        },
+        "url": "",
+        "username": "fake_fuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

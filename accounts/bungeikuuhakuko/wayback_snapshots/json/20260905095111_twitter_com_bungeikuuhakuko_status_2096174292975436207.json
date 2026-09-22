@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2096148156602057005",
+    "created_at": "2026-09-05T09:51:11.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T10:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096174292975436207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096174292975436207",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096148156602057005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 我想這樣玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1617,
+        "media_key": "3_2096148148754546688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcDoqsbgAAKEaa.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2096148156602057005",
+        "created_at": "2026-09-05T09:51:11.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096174292975436207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096174292975436207",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096148156602057005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 我想這樣玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096148148754546688"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2096148156602057005",
+        "created_at": "2026-09-05T08:07:19.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096148156602057005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1PUBBGuy9v",
+              "end": 34,
+              "expanded_url": "https://x.com/smiroyama/status/2096148156602057005/photo/1",
+              "media_key": "3_2096148148754546688",
+              "start": 11,
+              "url": "https://t.co/1PUBBGuy9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096148156602057005",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096148148754546688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 955,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "吴京（郊狼）学习法： https://t.co/1PUBBGuy9v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜不知名ACG小説家\n｜Cantonese🇭🇰🇲🇴｜​愛人先愛己 我願榮光歸香港\n｜夢啥説啥不鍵政 戀人日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqelO"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット",
+        "most_recent_tweet_id": "2096174292975436207",
+        "name": "文芸✨空白子⛩️",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095175643361374208/7B8cd2pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 329,
+          "like_count": 12145,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 3760
+        },
+        "url": "https://t.co/nVBPTdqelO",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "猫猫主人:@NanoCatfish\nBestie:@qianxunchan Sisters:@tangeorange @StarryNocts @Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtdukHG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "NanoCatfish"
+              },
+              {
+                "end": 37,
+                "start": 25,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "tangeorange"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 131,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 108,
+                "url": "https://t.co/pJ9VtdukHG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDnS6s"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096173828271689814",
+        "name": "寻寻",
+        "pinned_tweet_id": "2084650884575985701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982449259774656512/1784339298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8160,
+          "following_count": 2841,
+          "like_count": 15836,
+          "listed_count": 16,
+          "media_count": 2703,
+          "tweet_count": 10287
+        },
+        "url": "https://t.co/YPl1rDnS6s",
+        "username": "smiroyama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

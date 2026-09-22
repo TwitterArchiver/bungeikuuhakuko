@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100828163752570880"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2100828175244861911",
+    "created_at": "2026-09-18T06:04:03.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T07:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100828175244861911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QpNjaF7otW",
+          "end": 102,
+          "expanded_url": "https://x.com/bungeikuuhakuko/status/2100828175244861911/photo/1",
+          "media_key": "3_2100828163752570880",
+          "start": 79,
+          "url": "https://t.co/QpNjaF7otW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100828175244861911",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100828163752570880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "身邊人的距離感覺愈來愈遠了，身邊有人去廣州備考港澳臺聯考，也有人集訓美術與音樂，還有人去山東專心學韓文準備留學。就我自己一個人靈魂如同貼符般被困在這個課室中 https://t.co/QpNjaF7otW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2100828163752570880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSekFZKbsAAq0wG.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100828163752570880"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2100828175244861911",
+        "created_at": "2026-09-18T06:04:03.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100828175244861911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QpNjaF7otW",
+              "end": 102,
+              "expanded_url": "https://x.com/bungeikuuhakuko/status/2100828175244861911/photo/1",
+              "media_key": "3_2100828163752570880",
+              "start": 79,
+              "url": "https://t.co/QpNjaF7otW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100828175244861911",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100828163752570880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身邊人的距離感覺愈來愈遠了，身邊有人去廣州備考港澳臺聯考，也有人集訓美術與音樂，還有人去山東專心學韓文準備留學。就我自己一個人靈魂如同貼符般被困在這個課室中 https://t.co/QpNjaF7otW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2100828175244861911",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100800148247056385/a8fLd2kX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2139,
+          "following_count": 323,
+          "like_count": 12171,
+          "listed_count": 3,
+          "media_count": 498,
+          "tweet_count": 3791
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

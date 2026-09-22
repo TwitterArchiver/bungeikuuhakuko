@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099101670852771840"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2099101698807738875",
+    "created_at": "2026-09-13T11:43:39.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T12:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099101698807738875"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "空白今日吃甚麼"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KR9WjnoWNF",
+          "end": 50,
+          "expanded_url": "https://x.com/bungeikuuhakuko/status/2099101698807738875/photo/1",
+          "media_key": "3_2099101670852771840",
+          "start": 27,
+          "url": "https://t.co/KR9WjnoWNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099101698807738875",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099101670852771840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是普通的家常菜喵(⁠≧⁠▽⁠≦⁠)\n#空白今日吃甚麼 https://t.co/KR9WjnoWNF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2099101670852771840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGB2R6bwAANLSg.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099101670852771840"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099101698807738875",
+        "created_at": "2026-09-13T11:43:39.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T12:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099101698807738875"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 18,
+              "tag": "空白今日吃甚麼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KR9WjnoWNF",
+              "end": 50,
+              "expanded_url": "https://x.com/bungeikuuhakuko/status/2099101698807738875/photo/1",
+              "media_key": "3_2099101670852771840",
+              "start": 27,
+              "url": "https://t.co/KR9WjnoWNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099101698807738875",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099101670852771840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是普通的家常菜喵(⁠≧⁠▽⁠≦⁠)\n#空白今日吃甚麼 https://t.co/KR9WjnoWNF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2099101698807738875",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098410995828019200/dD1bFF3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 327,
+          "like_count": 12170,
+          "listed_count": 3,
+          "media_count": 494,
+          "tweet_count": 3782
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

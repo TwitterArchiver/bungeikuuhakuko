@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2097398579115765985",
+    "created_at": "2026-09-11T16:08:57.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T17:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098443688301248630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1414259680612818951",
+          "start": 0,
+          "username": "RainEngine2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098443688301248630",
+    "in_reply_to_user_id": "1414259680612818951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097398579115765985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2021 👀回來了喵（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2097398579115765985",
+        "created_at": "2026-09-11T16:08:57.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098443688301248630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1414259680612818951",
+              "start": 0,
+              "username": "RainEngine2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098443688301248630",
+        "in_reply_to_user_id": "1414259680612818951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097398579115765985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2021 👀回來了喵（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1414259680612818951",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2097398579115765985",
+        "created_at": "2026-09-08T18:56:03.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T19:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097398579115765985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097398579115765985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2249,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，这里是雨晴酱喵 ~ 喜欢平时在推上到处逛逛，看看大家分享的日常，也会和认识的朋友聊天～自己比较爱研究Android刷机、开源项目和各种小工具，平时碰到设备、系统或隐私安全方面的问题，也喜欢一起与大家琢磨办法。剩下的时候嘛，就是安静发呆、整理最近看到的新东西，还有期待大家来找我玩喵🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2098443688301248630",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098410995828019200/dD1bFF3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 326,
+          "like_count": 12163,
+          "listed_count": 3,
+          "media_count": 491,
+          "tweet_count": 3778
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-11T16:26:11.000Z",
+        "description": "小米合作伙伴 / RainEngine UX設計 / 安卓ROM開發者 / Unity3D初學者 / 19y.o / GMT+8 / ZH-CN",
+        "id": "1414259680612818951",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098437946877854054",
+        "name": "晴泽QinZor",
+        "pinned_tweet_id": "2097398579115765985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414259680612818951/1787410997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093699707315060737/A28jEelG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 219,
+          "like_count": 2297,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "RainEngine2021",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

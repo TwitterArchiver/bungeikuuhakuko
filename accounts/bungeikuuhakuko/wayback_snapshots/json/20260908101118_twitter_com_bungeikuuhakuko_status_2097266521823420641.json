@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2097171208106287559",
+    "created_at": "2026-09-08T10:11:18.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T11:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097266521823420641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1052903358900580352",
+          "start": 0,
+          "username": "Kalin_1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097266521823420641",
+    "in_reply_to_user_id": "1052903358900580352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097171208106287559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kalin_1124 有錢喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2097171202217549824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRqmGN1bIAAfPiV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2097171208106287559",
+        "created_at": "2026-09-08T10:11:18.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097266521823420641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1052903358900580352",
+              "start": 0,
+              "username": "Kalin_1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097266521823420641",
+        "in_reply_to_user_id": "1052903358900580352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097171208106287559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalin_1124 有錢喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097171202217549824"
+          ]
+        },
+        "author_id": "1052903358900580352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097171208106287559",
+        "created_at": "2026-09-08T03:52:34.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097171208106287559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8MlaQRYjQ",
+              "end": 27,
+              "expanded_url": "https://x.com/Kalin_1124/status/2097171208106287559/photo/1",
+              "media_key": "3_2097171202217549824",
+              "start": 4,
+              "url": "https://t.co/e8MlaQRYjQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097171208106287559",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097171202217549824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃吃喵 https://t.co/e8MlaQRYjQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2097266521823420641",
+        "name": "文芸✨空白子⛩️",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095175643361374208/7B8cd2pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 329,
+          "like_count": 12146,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 3767
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-18T12:44:57.000Z",
+        "description": "07｜男｜喵",
+        "id": "1052903358900580352",
+        "is_identity_verified": false,
+        "location": "owo",
+        "most_recent_tweet_id": "2097263427559506397",
+        "name": "卡林喵～",
+        "pinned_tweet_id": "2090409100165390806",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1052903358900580352/1769227139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014910609528442880/ftm3U_oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 2561,
+          "like_count": 64298,
+          "listed_count": 2,
+          "media_count": 782,
+          "tweet_count": 12405
+        },
+        "url": "",
+        "username": "Kalin_1124",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

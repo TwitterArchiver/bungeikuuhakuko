@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2097707829654356258",
+    "created_at": "2026-09-11T15:45:43.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T16:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098437844020949137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1758149527234891777",
+          "start": 0,
+          "username": "StarOfficial_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098437844020949137",
+    "in_reply_to_user_id": "1758149527234891777",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097707829654356258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarOfficial_A 好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2002,
+        "media_key": "3_2097707811266600960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyOI-UboAAWNYC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097707811266584576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyOI-UbYAA2k09.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2097707811274944512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyOI-Wa8AAxH9k.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2097707829654356258",
+        "created_at": "2026-09-11T15:45:43.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T16:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098437844020949137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758149527234891777",
+              "start": 0,
+              "username": "StarOfficial_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098437844020949137",
+        "in_reply_to_user_id": "1758149527234891777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097707829654356258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarOfficial_A 好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097707811266600960",
+            "3_2097707811266584576",
+            "3_2097707811274944512"
+          ]
+        },
+        "author_id": "1758149527234891777",
+        "conversation_id": "2097707829654356258",
+        "created_at": "2026-09-09T15:24:54.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097707829654356258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/syqNH4TABG",
+              "end": 187,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2097707829654356258/photo/1",
+              "media_key": "3_2097707811266600960",
+              "start": 164,
+              "url": "https://t.co/syqNH4TABG"
+            },
+            {
+              "display_url": "pic.x.com/syqNH4TABG",
+              "end": 187,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2097707829654356258/photo/1",
+              "media_key": "3_2097707811266584576",
+              "start": 164,
+              "url": "https://t.co/syqNH4TABG"
+            },
+            {
+              "display_url": "pic.x.com/syqNH4TABG",
+              "end": 187,
+              "expanded_url": "https://x.com/StarOfficial_A/status/2097707829654356258/photo/1",
+              "media_key": "3_2097707811274944512",
+              "start": 164,
+              "url": "https://t.co/syqNH4TABG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097707829654356258",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097707811266600960"
+          },
+          {
+            "media_key": "3_2097707811266584576"
+          },
+          {
+            "media_key": "3_2097707811274944512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "你好 这里XingXing\n☆诞生于2009 .1\n☆Lolita/cos\n☆大抵是清水推\n☆因为是高三学生所以产图有点慢\n☆投喂可以加速产出效率\n（收到的投喂会全部拿去买衣服）\n☆投喂可以解锁好友位\n——————————————————\n关于小群：\n加群记得备注id方便被我大调查（bushi\n☆只放可爱宝宝\n☆只放可爱宝宝\n(重要事情说两遍，不要问我为什么不通过加群申请)"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 31174,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "你好 这里XingXing\n☆诞生于2009 .1\n☆Lolita/cos\n☆大抵是清水推\n☆因为是高三学生所以产图有点慢\n☆投喂可以加速产出效率\n（收到的投喂会全部拿去买衣服）\n☆投喂可以解锁好友位\n——————————————————\n关于小群：\n加群记得备注id方便被我大调查（bushi\n☆只放可爱宝宝\n☆只放可爱宝宝 https://t.co/syqNH4TABG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2098437844020949137",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098410995828019200/dD1bFF3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 325,
+          "like_count": 12157,
+          "listed_count": 3,
+          "media_count": 491,
+          "tweet_count": 3776
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T15:22:05.000Z",
+        "description": "2009.01 ☆ \n常规休息日上推 ☆ 没动静就是在上学\n幻想成为大主包 ☆ 投喂可以加快产出\n「欢迎小可爱们扩列」",
+        "id": "1758149527234891777",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2098421131078427095",
+        "name": "XingXing",
+        "pinned_tweet_id": "2097707829654356258",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758149527234891777/1766890340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882345143623397376/L_QLMl_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4110,
+          "following_count": 330,
+          "like_count": 1785,
+          "listed_count": 12,
+          "media_count": 96,
+          "tweet_count": 465
+        },
+        "url": "",
+        "username": "StarOfficial_A",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

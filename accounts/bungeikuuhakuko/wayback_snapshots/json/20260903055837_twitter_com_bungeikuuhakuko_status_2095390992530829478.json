@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095390969944539136",
+        "3_2095390978945523712",
+        "3_2095390985887096832"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2095390992530829478",
+    "created_at": "2026-09-03T05:58:37.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095390992530829478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zXeyeoQqgY",
+          "end": 34,
+          "expanded_url": "https://x.com/bungeikuuhakuko/status/2095390992530829478/photo/1",
+          "media_key": "3_2095390969944539136",
+          "start": 11,
+          "url": "https://t.co/zXeyeoQqgY"
+        },
+        {
+          "display_url": "pic.x.com/zXeyeoQqgY",
+          "end": 34,
+          "expanded_url": "https://x.com/bungeikuuhakuko/status/2095390992530829478/photo/1",
+          "media_key": "3_2095390978945523712",
+          "start": 11,
+          "url": "https://t.co/zXeyeoQqgY"
+        },
+        {
+          "display_url": "pic.x.com/zXeyeoQqgY",
+          "end": 34,
+          "expanded_url": "https://x.com/bungeikuuhakuko/status/2095390992530829478/photo/1",
+          "media_key": "3_2095390985887096832",
+          "start": 11,
+          "url": "https://t.co/zXeyeoQqgY"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2095390992530829478",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095390969944539136"
+      },
+      {
+        "media_key": "3_2095390978945523712"
+      },
+      {
+        "media_key": "3_2095390985887096832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "俾呢個綜藝笑L死xd https://t.co/zXeyeoQqgY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2095390969944539136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRS_D0bAAAIqxc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 600,
+        "media_key": "3_2095390978945523712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRS_lWbIAAWah7.jpg",
+        "width": 1076
+      },
+      {
+        "height": 600,
+        "media_key": "3_2095390985887096832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRS__NbIAAgboF.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095390969944539136",
+            "3_2095390978945523712",
+            "3_2095390985887096832"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2095390992530829478",
+        "created_at": "2026-09-03T05:58:37.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095390992530829478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zXeyeoQqgY",
+              "end": 34,
+              "expanded_url": "https://x.com/bungeikuuhakuko/status/2095390992530829478/photo/1",
+              "media_key": "3_2095390969944539136",
+              "start": 11,
+              "url": "https://t.co/zXeyeoQqgY"
+            },
+            {
+              "display_url": "pic.x.com/zXeyeoQqgY",
+              "end": 34,
+              "expanded_url": "https://x.com/bungeikuuhakuko/status/2095390992530829478/photo/1",
+              "media_key": "3_2095390978945523712",
+              "start": 11,
+              "url": "https://t.co/zXeyeoQqgY"
+            },
+            {
+              "display_url": "pic.x.com/zXeyeoQqgY",
+              "end": 34,
+              "expanded_url": "https://x.com/bungeikuuhakuko/status/2095390992530829478/photo/1",
+              "media_key": "3_2095390985887096832",
+              "start": 11,
+              "url": "https://t.co/zXeyeoQqgY"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2095390992530829478",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095390969944539136"
+          },
+          {
+            "media_key": "3_2095390978945523712"
+          },
+          {
+            "media_key": "3_2095390985887096832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "俾呢個綜藝笑L死xd https://t.co/zXeyeoQqgY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜愛思考的誰（\n｜Cantonese🇭🇰🇲🇴｜​愛人先愛己 我願榮光歸香港\n｜夢啥説啥不鍵政 戀人日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqelO"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット",
+        "most_recent_tweet_id": "2095390992530829478",
+        "name": "文芸✨空白子⛩️",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095175643361374208/7B8cd2pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 330,
+          "like_count": 12170,
+          "listed_count": 3,
+          "media_count": 495,
+          "tweet_count": 3793
+        },
+        "url": "https://t.co/nVBPTdqelO",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

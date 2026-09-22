@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2097358047983399001",
+    "created_at": "2026-09-09T09:56:33.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097625195737399525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1863319222765428736",
+          "start": 0,
+          "username": "Re_ZaoTon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097625195737399525",
+    "in_reply_to_user_id": "1863319222765428736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097358047983399001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re_ZaoTon 發生啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2097358047983399001",
+        "created_at": "2026-09-09T09:56:33.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097625195737399525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863319222765428736",
+              "start": 0,
+              "username": "Re_ZaoTon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097625195737399525",
+        "in_reply_to_user_id": "1863319222765428736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097358047983399001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re_ZaoTon 發生啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863319222765428736",
+        "conversation_id": "2097358047983399001",
+        "created_at": "2026-09-08T16:15:00.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097358047983399001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097358047983399001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发生了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2097625195737399525",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095175643361374208/7B8cd2pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 329,
+          "like_count": 12147,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 3768
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21🍥｜小证含糖🍬｜家长不管党🍃｜性格良好✨｜河南农村小跨🌾｜生产日期09 06 01🥳｜账号用于分享日常，发表自己的见解📝｜建议私信回fo｜查询跨性别相关资料请前往https://t.co/6l43xOCIK5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 117,
+                "expanded_url": "http://2345.lgbt",
+                "start": 94,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=yQ-rQYyB3x7ycmzj",
+                "start": 0,
+                "url": "https://t.co/Ch5dpQ3i0Q"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "is_identity_verified": false,
+        "location": "埃迪卡拉纪",
+        "most_recent_tweet_id": "2097358047983399001",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2089210712610795949",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1863319222765428736/1787493431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091519816440176640/lzogbhRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 388,
+          "like_count": 18409,
+          "listed_count": 6,
+          "media_count": 147,
+          "tweet_count": 1908
+        },
+        "url": "https://t.co/Ch5dpQ3i0Q",
+        "username": "Re_ZaoTon",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

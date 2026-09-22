@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098198280329109504"
+      ],
+      "media_source_tweet_id": [
+        "2098249421028819029"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2098442051763495026",
+    "created_at": "2026-09-11T16:02:26.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T17:02:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098442051763495026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990587604146925568",
+          "start": 3,
+          "username": "Nakkar7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QhpzJ8tyMj",
+          "end": 42,
+          "expanded_url": "https://x.com/Nakkar7/status/2098249421028819029/photo/1",
+          "media_key": "3_2098198280329109504",
+          "start": 19,
+          "url": "https://t.co/QhpzJ8tyMj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098442051763495026",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098198280329109504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 323
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098249421028819029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nakkar7: 湧き水！！ https://t.co/QhpzJ8tyMj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2098198280329109504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5MOB9aIAASTW2.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098198280329109504"
+          ],
+          "media_source_tweet_id": [
+            "2098249421028819029"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2098442051763495026",
+        "created_at": "2026-09-11T16:02:26.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098442051763495026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990587604146925568",
+              "start": 3,
+              "username": "Nakkar7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhpzJ8tyMj",
+              "end": 42,
+              "expanded_url": "https://x.com/Nakkar7/status/2098249421028819029/photo/1",
+              "media_key": "3_2098198280329109504",
+              "start": 19,
+              "url": "https://t.co/QhpzJ8tyMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098442051763495026",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098198280329109504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 323
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098249421028819029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nakkar7: 湧き水！！ https://t.co/QhpzJ8tyMj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098198280329109504"
+          ]
+        },
+        "author_id": "990587604146925568",
+        "conversation_id": "2098249421028819029",
+        "created_at": "2026-09-11T03:17:00.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T04:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098249421028819029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhpzJ8tyMj",
+              "end": 29,
+              "expanded_url": "https://x.com/Nakkar7/status/2098249421028819029/photo/1",
+              "media_key": "3_2098198280329109504",
+              "start": 6,
+              "url": "https://t.co/QhpzJ8tyMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098249421028819029",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098198280329109504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 24525,
+          "like_count": 2719,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 323
+        },
+        "reply_settings": "everyone",
+        "text": "湧き水！！ https://t.co/QhpzJ8tyMj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2098442051763495026",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098410995828019200/dD1bFF3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 325,
+          "like_count": 12160,
+          "listed_count": 3,
+          "media_count": 491,
+          "tweet_count": 3777
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:44:23.000Z",
+        "description": "かわいいイラストレ〜タ〜\n┊SHOP ➭ https://t.co/AAZW8Vx0tG\n┊FANBOX ➭ https://t.co/YgsKSZVfDW\n┊感想とか！ ➭ #かなめなかエゴサ用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 88,
+                "tag": "かなめなかエゴサ用"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shanshando.booth.pm",
+                "end": 44,
+                "expanded_url": "http://shanshando.booth.pm",
+                "start": 21,
+                "url": "https://t.co/AAZW8Vx0tG"
+              },
+              {
+                "display_url": "nakkar7.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://nakkar7.fanbox.cc/",
+                "start": 55,
+                "url": "https://t.co/YgsKSZVfDW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Nakkar7",
+                "end": 23,
+                "expanded_url": "https://lit.link/Nakkar7",
+                "start": 0,
+                "url": "https://t.co/HcT4NaacHa"
+              }
+            ]
+          }
+        },
+        "id": "990587604146925568",
+        "is_identity_verified": false,
+        "location": "DMは見ません！",
+        "most_recent_tweet_id": "2098356416470036558",
+        "name": "かなめなか　9/13名古屋コミティア・C-21",
+        "pinned_tweet_id": "2096806790990295100",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990587604146925568/1779290306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074836599221948416/SAufjEEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70686,
+          "following_count": 205,
+          "like_count": 16003,
+          "listed_count": 657,
+          "media_count": 1130,
+          "tweet_count": 27802
+        },
+        "url": "https://t.co/HcT4NaacHa",
+        "username": "Nakkar7",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

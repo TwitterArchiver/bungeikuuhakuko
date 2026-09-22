@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101715561839484928"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2101582330976776327",
+    "created_at": "2026-09-20T16:50:14.000Z",
+    "display_text_range": [
+      15,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T17:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101715568474906778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bx7e6qOVHe",
+          "end": 45,
+          "expanded_url": "https://x.com/bungeikuuhakuko/status/2101715568474906778/photo/1",
+          "media_key": "3_2101715561839484928",
+          "start": 22,
+          "url": "https://t.co/bx7e6qOVHe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101715568474906778",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101715561839484928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101582330976776327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 那我怎麼辦？ https://t.co/bx7e6qOVHe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1345,
+        "media_key": "3_2101715561839484928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrLKwpaYAA79ls.jpg",
+        "width": 1080
+      },
+      {
+        "height": 629,
+        "media_key": "3_2101582325473751040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSpR_YgaMAArF2Z.jpg",
+        "width": 626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101715561839484928"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2101582330976776327",
+        "created_at": "2026-09-20T16:50:14.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101715568474906778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bx7e6qOVHe",
+              "end": 45,
+              "expanded_url": "https://x.com/bungeikuuhakuko/status/2101715568474906778/photo/1",
+              "media_key": "3_2101715561839484928",
+              "start": 22,
+              "url": "https://t.co/bx7e6qOVHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101715568474906778",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101715561839484928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101582330976776327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 那我怎麼辦？ https://t.co/bx7e6qOVHe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101582325473751040"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2101582330976776327",
+        "created_at": "2026-09-20T08:00:47.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101582330976776327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QFTqQ9s8GC",
+              "end": 50,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2101582330976776327/photo/1",
+              "media_key": "3_2101582325473751040",
+              "start": 27,
+              "url": "https://t.co/QFTqQ9s8GC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101582330976776327",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101582325473751040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 23092,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这4个都玩的人，现实中都是人中龙凤……我没开玩笑￼😇 https://t.co/QFTqQ9s8GC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜Cantonese\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット",
+        "most_recent_tweet_id": "2101715568474906778",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101221548862717953/3n1GGLj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 326,
+          "like_count": 12187,
+          "listed_count": 3,
+          "media_count": 502,
+          "tweet_count": 3804
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜Living today with the hope that tomorrow will be a little better🩷💙| 邮箱 ame@amesaku.cc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amesaku.cc",
+                "end": 23,
+                "expanded_url": "http://amesaku.cc",
+                "start": 0,
+                "url": "https://t.co/H1Gt3MUVE5"
+              }
+            ]
+          }
+        },
+        "id": "1573704119516176384",
+        "is_identity_verified": false,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2101706929739596041",
+        "name": "草莓泡芙🍀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097264541671542784/gDDAaJwQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100312,
+          "following_count": 2963,
+          "like_count": 8468,
+          "listed_count": 205,
+          "media_count": 613,
+          "tweet_count": 5457
+        },
+        "url": "https://t.co/H1Gt3MUVE5",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

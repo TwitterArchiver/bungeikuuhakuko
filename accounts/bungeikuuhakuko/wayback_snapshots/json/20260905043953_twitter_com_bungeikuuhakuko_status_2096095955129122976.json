@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096095921243324417"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2096095955129122976",
+    "created_at": "2026-09-05T04:39:53.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T05:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096095955129122976"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 17,
+          "tag": "MyXAnniversary"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o2HkDkFLWR",
+          "end": 56,
+          "expanded_url": "https://x.com/bungeikuuhakuko/status/2096095955129122976/photo/1",
+          "media_key": "3_2096095921243324417",
+          "start": 33,
+          "url": "https://t.co/o2HkDkFLWR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096095955129122976",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096095921243324417"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Xに登録した日を覚えていますか？ #MyXAnniversary https://t.co/o2HkDkFLWR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2096095921243324417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbUIoDagAE2x97.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096095921243324417"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2096095955129122976",
+        "created_at": "2026-09-05T04:39:53.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T05:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096095955129122976"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 17,
+              "tag": "MyXAnniversary"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2HkDkFLWR",
+              "end": 56,
+              "expanded_url": "https://x.com/bungeikuuhakuko/status/2096095955129122976/photo/1",
+              "media_key": "3_2096095921243324417",
+              "start": 33,
+              "url": "https://t.co/o2HkDkFLWR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096095955129122976",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096095921243324417"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Xに登録した日を覚えていますか？ #MyXAnniversary https://t.co/o2HkDkFLWR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜不知名ACG小説家\n｜Cantonese🇭🇰🇲🇴｜​愛人先愛己 我願榮光歸香港\n｜夢啥説啥不鍵政 戀人日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqelO"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット",
+        "most_recent_tweet_id": "2096095955129122976",
+        "name": "文芸✨空白子⛩️",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095175643361374208/7B8cd2pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 329,
+          "like_count": 12142,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 3758
+        },
+        "url": "https://t.co/nVBPTdqelO",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

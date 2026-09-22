@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2095707067965472865",
+    "created_at": "2026-09-04T09:54:10.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T10:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095812657395986698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1052903358900580352",
+          "start": 0,
+          "username": "Kalin_1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095812657395986698",
+    "in_reply_to_user_id": "1052903358900580352",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095811794652832238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kalin_1124 sorry"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2095707067965472865",
+        "created_at": "2026-09-04T09:54:10.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095812657395986698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1052903358900580352",
+              "start": 0,
+              "username": "Kalin_1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095812657395986698",
+        "in_reply_to_user_id": "1052903358900580352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095811794652832238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalin_1124 sorry"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1052903358900580352",
+        "conversation_id": "2095707067965472865",
+        "created_at": "2026-09-04T09:50:44.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095811794652832238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuuhakuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095811794652832238",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095811499172520207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuuhakuko 小弟哮喘"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜不知名ACG小説家\n｜Cantonese🇭🇰🇲🇴｜​愛人先愛己 我願榮光歸香港\n｜夢啥説啥不鍵政 戀人日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqelO"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット",
+        "most_recent_tweet_id": "2095812657395986698",
+        "name": "文芸✨空白子⛩️",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095175643361374208/7B8cd2pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2150,
+          "following_count": 328,
+          "like_count": 12185,
+          "listed_count": 3,
+          "media_count": 486,
+          "tweet_count": 3756
+        },
+        "url": "https://t.co/nVBPTdqelO",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-18T12:44:57.000Z",
+        "description": "07｜男｜喵",
+        "id": "1052903358900580352",
+        "is_identity_verified": false,
+        "location": "owo",
+        "most_recent_tweet_id": "2095812051209982029",
+        "name": "卡林喵～",
+        "pinned_tweet_id": "2090409100165390806",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1052903358900580352/1769227139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014910609528442880/ftm3U_oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 2545,
+          "like_count": 62894,
+          "listed_count": 2,
+          "media_count": 769,
+          "tweet_count": 12098
+        },
+        "url": "",
+        "username": "Kalin_1124",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

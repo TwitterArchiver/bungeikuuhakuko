@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2094105868006797767",
+    "created_at": "2026-09-02T16:45:49.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095191478855471261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1847157285337866240",
+          "start": 0,
+          "username": "jiuqiudev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095191478855471261",
+    "in_reply_to_user_id": "1847157285337866240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094105868006797767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuqiudev 當然，我給我自己配了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 572,
+        "media_key": "3_2093637934042025984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4Ym8LbkAAIQ6h.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2094105868006797767",
+        "created_at": "2026-09-02T16:45:49.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095191478855471261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1847157285337866240",
+              "start": 0,
+              "username": "jiuqiudev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095191478855471261",
+        "in_reply_to_user_id": "1847157285337866240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094105868006797767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuqiudev 當然，我給我自己配了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093637934042025984"
+          ]
+        },
+        "author_id": "1847157285337866240",
+        "conversation_id": "2094105868006797767",
+        "created_at": "2026-08-30T16:52:00.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094105868006797767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GjOtt1OQDY",
+              "end": 111,
+              "expanded_url": "https://x.com/jiuqiudev/status/2094105868006797767/photo/1",
+              "media_key": "3_2093637934042025984",
+              "start": 88,
+              "url": "https://t.co/GjOtt1OQDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094105868006797767",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093637934042025984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5614,
+          "like_count": 111,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "𝙄𝙛 𝙮𝙤𝙪 𝙬𝙚𝙧𝙚 𝙨𝙤𝙢𝙚𝙤𝙣𝙚 𝙚𝙡𝙨𝙚, 𝙬𝙤𝙪𝙡𝙙 𝙮𝙤𝙪 𝙛𝙖𝙡𝙡 𝙞𝙣 𝙡𝙤𝙫𝙚 𝙬𝙞𝙩𝙝 𝙮𝙤𝙪𝙧𝙨𝙚𝙡𝙛 𝙣𝙤𝙬?\n如果你是别人，你会喜欢上现在的自己吗？ https://t.co/GjOtt1OQDY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜愛思考的誰（\n｜Cantonese🇭🇰🇲🇴｜​愛人先愛己 我願榮光歸香港\n｜夢啥説啥不鍵政 戀人日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqelO"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット",
+        "most_recent_tweet_id": "2095191478855471261",
+        "name": "文芸✨空白子⛩️",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095175643361374208/7B8cd2pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 330,
+          "like_count": 12168,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 3790
+        },
+        "url": "https://t.co/nVBPTdqelO",
+        "username": "bungeikuuhakuko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T06:07:31.000Z",
+        "description": "你好啊，我是玖秋（不是秋玖（你猜猜）），一个普普通通的10后wmc，重度VOCALOID爱好者 音游痴 和杂食党 爱玩魔裁。爱好广泛，欢迎扩列～私信和TG随时欢迎随时骚扰！\n这是我@devqiujiu @qiujiudev @jiuqiudev @devjiuqiu\nTG:https://t.co/rJxUg8NWIg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "devqiujiu"
+              },
+              {
+                "end": 111,
+                "start": 101,
+                "username": "qiujiudev"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "jiuqiudev"
+              },
+              {
+                "end": 133,
+                "start": 123,
+                "username": "devjiuqiu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Qiujiudev",
+                "end": 160,
+                "expanded_url": "http://t.me/Qiujiudev",
+                "start": 137,
+                "url": "https://t.co/rJxUg8NWIg"
+              }
+            ]
+          }
+        },
+        "id": "1847157285337866240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094922247316357576",
+        "name": "玖秋（寻回推友版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847157285337866240/1787388942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090333966616465409/SjGBH4vM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 334,
+          "like_count": 1022,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 393
+        },
+        "url": "",
+        "username": "jiuqiudev",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

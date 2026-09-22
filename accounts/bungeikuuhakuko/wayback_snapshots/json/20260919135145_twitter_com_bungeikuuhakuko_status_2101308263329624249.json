@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2101275365415223511",
+    "created_at": "2026-09-19T13:51:45.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101308263329624249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756246342676979713",
+          "start": 0,
+          "username": "shungleemain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101308263329624249",
+    "in_reply_to_user_id": "1756246342676979713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101275365415223511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shungleemain 看得我也想起義了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 740,
+        "media_key": "3_2101275353419493376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSk6zQfaMAA_15M.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2101275365415223511",
+        "created_at": "2026-09-19T13:51:45.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101308263329624249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "shungleemain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101308263329624249",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101275365415223511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shungleemain 看得我也想起義了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101275353419493376"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "conversation_id": "2101275365415223511",
+        "created_at": "2026-09-19T11:41:01.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101275365415223511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HADyveGPDE",
+              "end": 41,
+              "expanded_url": "https://x.com/shungleemain/status/2101275365415223511/photo/1",
+              "media_key": "3_2101275353419493376",
+              "start": 18,
+              "url": "https://t.co/HADyveGPDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101275365415223511",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101275353419493376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1144,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "經典回顧之中國大陸最成功的示威活動 https://t.co/HADyveGPDE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜Cantonese\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット",
+        "most_recent_tweet_id": "2101308263329624249",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101221548862717953/3n1GGLj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 324,
+          "like_count": 12182,
+          "listed_count": 3,
+          "media_count": 500,
+          "tweet_count": 3799
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "一個很普通的人｜還要多遠才能進入你的心\n超級好詭秘 @Akinoyo_desu\n可愛的蜜獾 @kittymi030",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "kittymi030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shungleemain",
+                "end": 23,
+                "expanded_url": "https://t.me/shungleemain",
+                "start": 0,
+                "url": "https://t.co/ZWd7sZWXZ2"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "is_identity_verified": false,
+        "location": "Vietnam",
+        "most_recent_tweet_id": "2101287590251098191",
+        "name": "聖米格爾生力麵",
+        "pinned_tweet_id": "2070576452765147391",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756246342676979713/1763787147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041138223767003137/717JFCWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2748,
+          "following_count": 987,
+          "like_count": 3028,
+          "listed_count": 9,
+          "media_count": 563,
+          "tweet_count": 7503
+        },
+        "url": "https://t.co/ZWd7sZWXZ2",
+        "username": "shungleemain",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

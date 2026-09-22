@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2100787249415962970",
+    "created_at": "2026-09-18T09:01:48.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T10:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100872910726365370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1052903358900580352",
+          "start": 0,
+          "username": "Kalin_1124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100872910726365370",
+    "in_reply_to_user_id": "1052903358900580352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100787249415962970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kalin_1124 幾錢？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2100787241463455744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSd-3ZwaIAA0kXG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2100787249415962970",
+        "created_at": "2026-09-18T09:01:48.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T10:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100872910726365370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1052903358900580352",
+              "start": 0,
+              "username": "Kalin_1124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100872910726365370",
+        "in_reply_to_user_id": "1052903358900580352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100787249415962970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalin_1124 幾錢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100787241463455744"
+          ]
+        },
+        "author_id": "1052903358900580352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100787249415962970",
+        "created_at": "2026-09-18T03:21:25.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T04:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100787249415962970"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 30,
+              "tag": "卡林吃吃喵"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3TE2g3LFFq",
+              "end": 60,
+              "expanded_url": "https://x.com/Kalin_1124/status/2100787249415962970/photo/1",
+              "media_key": "3_2100787241463455744",
+              "start": 37,
+              "url": "https://t.co/3TE2g3LFFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100787249415962970",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100787241463455744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安卓人不喜歡壞安卓\n蘋果人不喜歡bad apple\n吃吃喵\n#卡林吃吃喵 https://t.co/3TE2g3LFFq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2100872910726365370",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100800148247056385/a8fLd2kX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2138,
+          "following_count": 323,
+          "like_count": 12174,
+          "listed_count": 3,
+          "media_count": 498,
+          "tweet_count": 3792
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-10-18T12:44:57.000Z",
+        "description": "07｜男｜喵｜吃飯展示 #卡林吃吃喵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 12,
+                "tag": "卡林吃吃喵"
+              }
+            ]
+          }
+        },
+        "id": "1052903358900580352",
+        "is_identity_verified": false,
+        "location": "owo",
+        "most_recent_tweet_id": "2100843869869088817",
+        "name": "卡林喵～",
+        "pinned_tweet_id": "2090409100165390806",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1052903358900580352/1769227139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014910609528442880/ftm3U_oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 2587,
+          "like_count": 66061,
+          "listed_count": 2,
+          "media_count": 834,
+          "tweet_count": 12878
+        },
+        "url": "",
+        "username": "Kalin_1124",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

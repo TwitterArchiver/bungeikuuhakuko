@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101346989653008384"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2101347015817134435",
+    "created_at": "2026-09-19T16:25:44.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101347015817134435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SkiTozpC3E",
+          "end": 128,
+          "expanded_url": "https://x.com/bungeikuuhakuko/status/2101347015817134435/photo/1",
+          "media_key": "3_2101346989653008384",
+          "start": 105,
+          "url": "https://t.co/SkiTozpC3E"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2101347015817134435",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101346989653008384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "觀文提醒：原po是大陸人在大陸上學生活\n未來的事未來再說，今日的事今日就說。後面打碼的內容我打算等未來，我真實現了文章裡的承諾再po出來給大家看。我也怕希望落空，也有幾條普通的退路，怕浪費大家的期待\n如此便好 https://t.co/SkiTozpC3E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2101346989653008384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSl79CQaoAA7i99.jpg",
+        "width": 4096
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101346989653008384"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2101347015817134435",
+        "created_at": "2026-09-19T16:25:44.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101347015817134435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SkiTozpC3E",
+              "end": 128,
+              "expanded_url": "https://x.com/bungeikuuhakuko/status/2101347015817134435/photo/1",
+              "media_key": "3_2101346989653008384",
+              "start": 105,
+              "url": "https://t.co/SkiTozpC3E"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2101347015817134435",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101346989653008384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觀文提醒：原po是大陸人在大陸上學生活\n未來的事未來再說，今日的事今日就說。後面打碼的內容我打算等未來，我真實現了文章裡的承諾再po出來給大家看。我也怕希望落空，也有幾條普通的退路，怕浪費大家的期待\n如此便好 https://t.co/SkiTozpC3E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜Cantonese\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 34,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット",
+        "most_recent_tweet_id": "2101347015817134435",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101221548862717953/3n1GGLj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2140,
+          "following_count": 324,
+          "like_count": 12182,
+          "listed_count": 3,
+          "media_count": 501,
+          "tweet_count": 3800
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

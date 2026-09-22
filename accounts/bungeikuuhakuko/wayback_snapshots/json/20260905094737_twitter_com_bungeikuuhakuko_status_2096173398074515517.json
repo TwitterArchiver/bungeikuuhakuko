@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2096111974371438945",
+    "created_at": "2026-09-05T09:47:37.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T10:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096173398074515517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573704119516176384",
+          "start": 0,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2096173398074515517",
+    "in_reply_to_user_id": "1573704119516176384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096111974371438945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnozakiSakura 一條"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_2096111966863622144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRbiumpaAAAEWRm.jpg",
+        "width": 1292
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2096111974371438945",
+        "created_at": "2026-09-05T09:47:37.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096173398074515517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2096173398074515517",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096111974371438945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 一條"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096111966863622144"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2096111974371438945",
+        "created_at": "2026-09-05T05:43:33.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096111974371438945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hu4CVPhmw0",
+              "end": 39,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2096111974371438945/photo/1",
+              "media_key": "3_2096111966863622144",
+              "start": 16,
+              "url": "https://t.co/hu4CVPhmw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096111974371438945",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096111966863622144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5258,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 38,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打麻将的时候大家都叫它什么呀？ https://t.co/hu4CVPhmw0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜不知名ACG小説家\n｜Cantonese🇭🇰🇲🇴｜​愛人先愛己 我願榮光歸香港\n｜夢啥説啥不鍵政 戀人日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 71,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqelO"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット",
+        "most_recent_tweet_id": "2096173398074515517",
+        "name": "文芸✨空白子⛩️",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095175643361374208/7B8cd2pi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 329,
+          "like_count": 12144,
+          "listed_count": 3,
+          "media_count": 487,
+          "tweet_count": 3759
+        },
+        "url": "https://t.co/nVBPTdqelO",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "is_identity_verified": false,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2096173038693924972",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100201,
+          "following_count": 2864,
+          "like_count": 9067,
+          "listed_count": 206,
+          "media_count": 1561,
+          "tweet_count": 6052
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

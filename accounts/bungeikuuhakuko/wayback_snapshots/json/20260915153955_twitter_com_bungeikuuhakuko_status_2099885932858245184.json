@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2099815731567468896",
+    "created_at": "2026-09-15T15:39:55.000Z",
+    "display_text_range": [
+      13,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099885932858245184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1649365408779214848",
+          "start": 0,
+          "username": "bolckAshley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099885932858245184",
+    "in_reply_to_user_id": "1649365408779214848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099815731567468896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bolckAshley 但在價格上我還是覺得大陸好點"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "台北的「忠誠牛肉麵」",
+        "height": 683,
+        "media_key": "3_2099815721425571840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQLRflaEAAJ76Y.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2099815731567468896",
+        "created_at": "2026-09-15T15:39:55.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099885932858245184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099885932858245184",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099815731567468896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley 但在價格上我還是覺得大陸好點"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099815721425571840"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099815731567468896",
+        "created_at": "2026-09-15T11:00:57.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099815731567468896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lUC0BLkGC1",
+              "end": 167,
+              "expanded_url": "https://x.com/bolckAshley/status/2099815731567468896/photo/1",
+              "media_key": "3_2099815721425571840",
+              "start": 144,
+              "url": "https://t.co/lUC0BLkGC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099815731567468896",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "台北的「忠誠牛肉麵」",
+            "media_key": "3_2099815721425571840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1405,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大陸人啥時候才能普遍都能吃上便宜豐富量大的飯菜，看美食博主分享的在台灣那邊250新台幣（約52人民幣）一份的牛肉麵，按照台灣的薪資水平我覺得還算便宜（台灣基本時薪為196新台幣），裡頭的肉跟麵都多的離譜\n而中國大陸不少人的薪資雖然不至於吃不飽（畢竟有拼好飯），但距離吃的好還是有點距離👋 https://t.co/lUC0BLkGC1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜ 08年文科高三生｜推圈不知名小角色｜在粵廣東人\n｜日帳：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 30,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "is_identity_verified": true,
+        "location": "IP所在地：インターネット🇭🇰",
+        "most_recent_tweet_id": "2099885932858245184",
+        "name": "文芸_空白子✨",
+        "pinned_tweet_id": "2091973257415287082",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964042844198621187/1787580959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098410995828019200/dD1bFF3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 325,
+          "like_count": 12169,
+          "listed_count": 3,
+          "media_count": 497,
+          "tweet_count": 3787
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuuhakuko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2099875174682366142",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098696333637115904/LfgtEUx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4705,
+          "following_count": 2278,
+          "like_count": 44504,
+          "listed_count": 33,
+          "media_count": 2163,
+          "tweet_count": 25058
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
